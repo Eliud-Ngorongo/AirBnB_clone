@@ -1,1 +1,0 @@
-This is the frontend code for the AirBnB clone project
